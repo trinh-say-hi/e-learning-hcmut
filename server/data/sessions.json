@@ -1,0 +1,127 @@
+{
+  "sessions": [
+    {
+      "id": "650e8400-e29b-41d4-a716-446655440001",
+      "tutorId": "550e8400-e29b-41d4-a716-446655440003",
+      "title": "Hướng dẫn làm đồ án Web với React1",
+      "description": "Tư vấn về React, Node.js, và các best practices trong phát triển web. Hỗ trợ sinh viên làm đồ án môn Công nghệ phần mềm.",
+      "mode": "OFFLINE",
+      "room": "H6-101",
+      "url": null,
+      "startAt": "2025-12-02T14:00:00",
+      "endAt": "2025-12-02T16:00:00",
+      "capacity": 10,
+      "currentCount": 1,
+      "status": "OPEN",
+      "subjects": [
+        "Lập trình web",
+        "React",
+        "Node.js"
+      ],
+      "createdAt": "2025-12-01T09:00:00Z",
+      "updatedAt": "2025-12-08T04:52:56.798Z"
+    },
+    {
+      "id": "650e8400-e29b-41d4-a716-446655440002",
+      "tutorId": "550e8400-e29b-41d4-a716-446655440003",
+      "title": "Tư vấn thiết kế cơ sở dữ liệu",
+      "description": "Hướng dẫn thiết kế schema, normalization, indexing cho database. Áp dụng cho MongoDB và PostgreSQL.",
+      "mode": "ONLINE",
+      "room": null,
+      "url": "https://meet.google.com/abc-defg-hij",
+      "startAt": "2025-12-03T09:00:00",
+      "endAt": "2025-12-03T11:00:00",
+      "capacity": 15,
+      "currentCount": 7,
+      "status": "OPEN",
+      "subjects": [
+        "Cơ sở dữ liệu",
+        "SQL",
+        "MongoDB"
+      ],
+      "createdAt": "2025-12-01T10:00:00Z",
+      "updatedAt": "2025-12-08T14:30:00Z"
+    },
+    {
+      "id": "650e8400-e29b-41d4-a716-446655440003",
+      "tutorId": "550e8400-e29b-41d4-a716-446655440004",
+      "title": "Nhập môn Machine Learning với Python",
+      "description": "Giới thiệu các thuật toán ML cơ bản, thực hành với scikit-learn và pandas.",
+      "mode": "OFFLINE",
+      "room": "H6-202",
+      "url": null,
+      "startAt": "2025-12-04T14:00:00",
+      "endAt": "2025-12-04T16:30:00",
+      "capacity": 12,
+      "currentCount": 5,
+      "status": "OPEN",
+      "subjects": [
+        "Machine Learning",
+        "Python",
+        "AI"
+      ],
+      "createdAt": "2025-12-02T08:00:00Z",
+      "updatedAt": "2025-12-02T08:00:00Z"
+    },
+    {
+      "id": "650e8400-e29b-41d4-a716-446655440004",
+      "tutorId": "550e8400-e29b-41d4-a716-446655440004",
+      "title": "Deep Learning và Neural Networks",
+      "description": "Tư vấn về mạng neural, CNN, RNN. Hướng dẫn sử dụng TensorFlow và PyTorch.",
+      "mode": "ONLINE",
+      "room": null,
+      "url": "https://meet.google.com/xyz-abcd-efg",
+      "startAt": "2025-12-05T10:00:00",
+      "endAt": "2025-12-05T12:00:00",
+      "capacity": 20,
+      "currentCount": 20,
+      "status": "FULL",
+      "subjects": [
+        "Deep Learning",
+        "AI",
+        "Python"
+      ],
+      "createdAt": "2025-12-02T09:00:00Z",
+      "updatedAt": "2025-12-08T10:00:00Z"
+    },
+    {
+      "id": "650e8400-e29b-41d4-a716-446655440005",
+      "tutorId": "550e8400-e29b-41d4-a716-446655440003",
+      "title": "Review buổi tư vấn Web Development",
+      "description": "Buổi tư vấn đã hoàn thành, sinh viên có thể đánh giá.",
+      "mode": "OFFLINE",
+      "room": "H6-101",
+      "url": null,
+      "startAt": "2025-12-06T14:00:00",
+      "endAt": "2025-12-06T16:00:00",
+      "capacity": 8,
+      "currentCount": 5,
+      "status": "COMPLETED",
+      "subjects": [
+        "Lập trình web"
+      ],
+      "createdAt": "2025-11-28T09:00:00Z",
+      "updatedAt": "2025-12-06T16:00:00Z"
+    },
+    {
+      "id": "650e8400-e29b-41d4-a716-446655440999",
+      "tutorId": "550e8400-e29b-41d4-a716-446655440003",
+      "title": "Test Event Today",
+      "description": "Sự kiện test hiển thị trên lịch cho mục đích kiểm tra.",
+      "mode": "ONLINE",
+      "room": null,
+      "url": "https://meet.google.com/test-event-today",
+      "startAt": "2025-12-08T14:00:00",
+      "endAt": "2025-12-08T15:00:00",
+      "capacity": 10,
+      "currentCount": 0,
+      "status": "OPEN",
+      "subjects": [
+        "Test",
+        "Lập trình web"
+      ],
+      "createdAt": "2025-12-08T11:35:00Z",
+      "updatedAt": "2025-12-08T11:35:00Z"
+    }
+  ]
+}
