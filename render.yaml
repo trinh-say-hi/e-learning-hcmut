@@ -11,10 +11,12 @@ services:
       - key: PORT
         value: 10000
 
-  - type: static_site
+  - type: web
     name: e-learning-frontend
+    runtime: node
+    plan: free
     buildCommand: cd client && npm install && npm run build
-    staticPublishPath: client/dist
+    startCommand: cd client && npx serve -s dist -l 3000
     envVars:
       - key: VITE_API_URL
         value: https://e-learning-backend.onrender.com
